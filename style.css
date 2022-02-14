@@ -97,3 +97,9 @@ textarea{
 .dev-info a{
     color: blue;
 }
+
+@media (max-width:477px){
+    .form-wrapper{
+        width: 90%;
+    }
+}
